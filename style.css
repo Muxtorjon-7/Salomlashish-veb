@@ -24,12 +24,14 @@ h1 {
   margin: 0;
   font-size: 28px;
   color: #333;
+  font-family: cursive;
 }
 
 p {
   margin-top: 15px;
   font-size: 16px;
   color: #555;
+  font-family: cursive;
 }
 
 button {
@@ -43,6 +45,7 @@ button {
   transition:
     background 0.3s ease,
     transform 0.2s ease;
+    font-family: cursive;
 }
 
 button:hover {
